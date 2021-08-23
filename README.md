@@ -3,7 +3,7 @@ Tugas Projek Kelompok 1 Inventaris Sekolah
 Cara instalasi
 1. $git clone https://github.com/aryayudhazachri22/inventaris-sekolah-kelompok1.git
 2. composer install
-3. Genrate Key dengan cara php artisan generate:key
+3. Genrate Key dengan cara php artisan key:generate
 4. buat file .env lalu copy kan isi env.example 
 5. buat data base sesuai dengan nama DB di .env
 6. lalu copy kan php artisan voyager:install --with-dummy Di terminal .
